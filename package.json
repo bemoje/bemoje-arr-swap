@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-swap",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Swap array elements in place. Runtime: O(1)",
    "main": "dist/arr-swap.umd.js",
    "module": "dist/arr-swap.esm.js",

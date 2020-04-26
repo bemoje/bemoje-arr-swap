@@ -67,6 +67,9 @@ Swap array elements in place. Runtime: O(1)
 
 -   `to` **[number][4]** index of the 2nd element
 
+##### Returns
+**void** 
+
 [1]: #arrswap
 
 [2]: #parameters
