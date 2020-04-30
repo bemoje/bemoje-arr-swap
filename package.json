@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-swap",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "Swap array elements in place. Runtime: O(1)",
    "main": "dist/arr-swap.umd.js",
    "module": "dist/arr-swap.esm.js",
@@ -47,7 +47,7 @@
    "dependencies": {},
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
